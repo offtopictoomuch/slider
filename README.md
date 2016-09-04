@@ -1,2 +1,2 @@
 # slider
-a cool little slider, done as a side project for jQuery effects and hide() + show()
+a cool little slider, done as a side project for jQuery effects and hide() + show(). also testing out git
